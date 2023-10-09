@@ -52,7 +52,5 @@ Output Variables:
 14.	AVG WORD LENGTH
 Checkout output data structure spreadsheet for the format of your output, i.e. “Output Data Structure.xlsx”.
 
-
-6.	Timeline
-6 days, sooner is better. 
+ 
 
