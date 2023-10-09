@@ -1,4 +1,4 @@
-# Sentimental-Analysis-Using-Python
+# Sentiment-Analysis-Using-Python
 Data Extraction- NLP
 
 Data Extraction and NLP
